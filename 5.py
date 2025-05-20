@@ -1,5 +1,4 @@
 #Counting Word Frequency
-from idlelib.run import handle_tk_events
 
 fname = input('Enter File: ')
 if len(fname) <1 : fname = 'clown.txt'
